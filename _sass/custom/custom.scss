@@ -1,0 +1,28 @@
+code {
+  white-space: pre-wrap !important;
+}
+// highlight for bolded md headline inside of a code example
+.highlight .gs {
+  font-weight: bold;
+  color: $blue-200;
+}
+
+.highlight .btn {
+  position: absolute;
+  right: 1.2rem;
+  top: 1.2rem;
+  opacity: 0.725;
+}
+
+// ```[LANG]...```
+div.highlighter-rouge {
+  position: relative;
+}
+
+h4,
+.text-delta {
+  @include fs-2;
+  font-weight: 400;
+  // text-transform: uppercase;
+  letter-spacing: 0.1em;
+}

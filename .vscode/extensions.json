@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "akamud.vscode-theme-onedark",
+    "akamud.vscode-theme-onelight",
+    "csholmq.excel-to-markdown-table",
+    "davidanson.vscode-markdownlint",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "mechatroner.rainbow-csv",
+    "streetsidesoftware.code-spell-checker",
+    "tyriar.sort-lines",
+    "yzhang.markdown-all-in-one",
+    "fcrespo82.markdown-table-formatter"
+  ]
+}
